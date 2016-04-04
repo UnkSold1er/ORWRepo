@@ -1,0 +1,6 @@
+*.pyc
+venv-nadara-135-b
+staticfiles
+local_settings.py
+nadara.sqlite3
+_pycache_

@@ -1,0 +1,7 @@
+Gunicorn - 'Green Unicorn' jest to serwer Pythona WSGI HTTP dla systemu UNIX. 
+	Jest to pre-forkowany model roboczy przeniesiony z projektu Ruby Unicorn.
+	Serwer Gunicorn jest szeroko kompatybilny z ró¿nymi frameworkami sieciowymi, ³atwy w implementacji, 
+	wykorzystuj¹cy ma³o zasobów serwera oraz w miarê szybki.
+Whitenoise - pozwala aplikacji serwowaæ w³asne statyczne pliki.
+Psycopg2 - popularny adapter PostgreSQL dla Pythona. W pe³ni implementuje specyfikacjê Python DB API 2.0 .
+	Kilka rozszerzeñ pozwala na dostêp do wielu akcji oferowanych przez PostgreSQL.
